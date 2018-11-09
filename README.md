@@ -31,7 +31,7 @@ URL para o git: https://github.com/rrfullstackdevs/Royal
 
 ### Apresentação
 
-A apresentação deste projeto está disponível em: https://drive.google.com/file/d/1R_WNfiH15KPH-9tzLrr7KgOxRrJQwVJK/view?usp=sharing
+A apresentação deste projeto está disponível em: https://drive.google.com/file/d/1kBcBHhJEgsbv47I6c84e92LyPG5E2hYW/view?usp=sharing
 
 ### Referências
 
