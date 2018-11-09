@@ -1,6 +1,6 @@
 ## Documentação Truth's Box
 
-### Objetivo: 
+### Objetivo 
   
 Criar uma extensão para o navegador no qual usará aprendizagem de máquina para validar uma noticia, ou seja, dizer se as noticias
 submetidas são FALSAS ou VERDADEIRAS. 
@@ -9,7 +9,7 @@ submetidas são FALSAS ou VERDADEIRAS.
 
 O usuário no navegador poderá selecionar o corpo da notícia e submeter para verificação. 
 
-### Ferramentas Utilizadas:
+### Ferramentas Utilizadas
 
  - A extensão foi criada em JSON, HTML & CSS e Javascript. A extensão é disponivel para o navegador Chrome.
  - A ferramenta utilizada para a predição de fake news foi a biblioteca scikit-learn(Python), com ele foi construido o modelo preditivo necessário para obter o resultado. Segue o link para a biblioteca: https://scikit-learn.org/stable/.
@@ -19,3 +19,7 @@ O usuário no navegador poderá selecionar o corpo da notícia e submeter para v
 ### Apresentação
 
 A apresentação deste projeto está disponível em: https://drive.google.com/file/d/1R_WNfiH15KPH-9tzLrr7KgOxRrJQwVJK/view?usp=sharing
+
+### Referências
+
+Site para o tutorial: https://www.datacamp.com/community/podcast/data-science-fake-news.
